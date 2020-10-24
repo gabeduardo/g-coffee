@@ -1,6 +1,6 @@
 ---
 contentKey: blog
-title: tercer post
+title: Tercer post
 date: 2020-10-24T04:49:15.308Z
 ---
 ## Why do we use it?
